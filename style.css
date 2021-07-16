@@ -1,0 +1,52 @@
+body{
+    background-size: cover;
+}
+
+.ting{
+    font-size: 40px;
+    width: 100%;
+    margin: 0;
+    background-color: orangered;
+    box-shadow:10px 10px 10px black;
+    font-family: Impact;
+    color: #000;
+}
+
+.lime{
+    font-size: 25px;
+    background-color: lime;
+    color: navy;
+    font-family: Impact;
+}
+
+#Number_of_objects{
+    font-size: 30px;
+    font-family: Impact;
+}
+
+.orange{
+    font-size: 25px;
+    background-color: navy;
+    font-family: Impact;
+    color: rgb(255, 255, 255);
+}
+
+.TL{
+    position: fixed;
+    bottom: 0;
+    line-height: 2;
+    text-align: center;
+    color: rgb(255, 60, 0);
+    background-color: navy;
+    font-family: Impact;
+    width: 100%;
+}
+
+canvas{
+    box-shadow:10px 10px 10px black;
+    margin: 120px;
+
+}
+
+
+
