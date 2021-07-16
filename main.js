@@ -3,7 +3,7 @@ video="";
 status="";
 
 function preload(){
-    video=createVideo('The_Boss_baby_2.mp4');
+    video=createVideo('video.mp4');
     video.hide();
 }
 
